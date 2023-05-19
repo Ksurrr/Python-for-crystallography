@@ -1,4 +1,6 @@
 # Python-for-crystallography
+Содержание курса
+
 Занятие 1
 1) Особенности Python
 - Простейшие вычисления в Python
